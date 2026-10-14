@@ -74,7 +74,7 @@ public/         Static assets
 
 ## Design
 
-Design decisions (tokens, typography, motion rules, accessibility targets) are documented in [DESIGN.md](./DESIGN.md).
+Design decisions (tokens, typography, motion rules, accessibility targets) are documented in [copilot-instruction.md](./copilot-instruction.md).
 
 ## Deployment
 
